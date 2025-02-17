@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Alexis]
 
-<!--
-**ACalexiscarneri/ACalexiscarneri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador backend con experiencia en **NestJS, PostgreSQL, Docker** y otras tecnologías.
 
-Here are some ideas to get you started:
+🚀 Tecnologías y herramientas:
+- **Backend:** NestJS, Express, TypeORM, PostgreSQL, JWT, WebSockets.
+- **Frontend:** React, Redux Toolkit, Vite.
+- **DevOps:** Docker, Docker Compose.
+- **Testing:** Jest, Supertest.
+- **Otros:** Git, Swagger, Insomnia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 ¿Quieres contactarme? Puedes encontrarme en:
+- ✉️ [acarneri20@gmail.com]
+- 🐙 [Tu GitHub](https://github.com/TuUsuario)
+- 💼 [Tu LinkedIn](https://www.linkedin.com/in/alexis-carneri-234a83299)
+
+⚡ ¡Siempre aprendiendo y explorando nuevas tecnologías!
