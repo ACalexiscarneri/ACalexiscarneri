@@ -4,9 +4,8 @@
 
 🚀 Tecnologías y herramientas:
 - **Backend:** NestJS, Express, TypeORM, PostgreSQL, JWT, WebSockets.
-- **Frontend:** React, Redux Toolkit, Vite.
+- **Frontend:** React - Vite ,HTML , CSS.
 - **DevOps:** Docker, Docker Compose.
-- **Testing:** Jest, Supertest.
 - **Otros:** Git, Swagger, Insomnia.
 
 📫 ¿Quieres contactarme? Puedes encontrarme en:
