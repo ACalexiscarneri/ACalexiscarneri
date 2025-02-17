@@ -11,7 +11,7 @@
 
 📫 ¿Quieres contactarme? Puedes encontrarme en:
 - ✉️ [acarneri20@gmail.com]
-- 🐙 [Tu GitHub](https://github.com/TuUsuario)
-- 💼 [Tu LinkedIn](https://www.linkedin.com/in/alexis-carneri-234a83299)
+- 🐙 [GitHub](https://github.com/TuUsuario)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexis-carneri-234a83299)
 
 ⚡ ¡Siempre aprendiendo y explorando nuevas tecnologías!
