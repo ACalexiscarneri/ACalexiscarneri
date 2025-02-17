@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Alexis]
+# 👋 ¡Hola! Soy Alexis
 
 💻 Desarrollador backend con experiencia en **NestJS, PostgreSQL, Docker** y otras tecnologías.
 
